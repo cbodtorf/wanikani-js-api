@@ -21,7 +21,7 @@
   "author": "Caleb Bodtorf",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "2.3.0"
+    "node-fetch": "2.6.7"
   },
   "devDependencies": {
     "@types/node-fetch": "^2.1.4",
